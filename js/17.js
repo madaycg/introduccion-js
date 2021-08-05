@@ -12,3 +12,4 @@ console.log( parseInt(numero2) ); // parseInt() es una funcion
 console.log( numero1.toString() ); // .toString() es un metodo
 
 // esto solo esta en la rama develop
+// desde master
