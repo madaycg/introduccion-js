@@ -2,9 +2,10 @@
 
 const tweet = 'Aprendiendo JavaScript con el curso de Desarrollo Web Completo"';
 const producto2 = 'Monitor HD"'
-// lenhth para extension
+// length para extension
 
-console.log(tweet.length); /*nos indica cuantos caracteres tiene la cadena de texto producto*/ 
+console.log(tweet.length)
+ /*nos indica cuantos caracteres tiene la cadena de texto producto*/ 
 // usar el .length hace a la funcion un metodo
 
 // IndexOf te va ha decir en que posicion se encuentra un texto que estas buscando.(RETORNA POSICION)

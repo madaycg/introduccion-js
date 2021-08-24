@@ -27,3 +27,15 @@ const nombre_producto = 'Monitor HD'; // underscore
 const nombreProducto = 'Monitor HD'; // Camelcase
 const NombreProducto = 'Monitor HD'; // Pascal Case
 const nombreproducto = 'Monitor HD';
+
+var uno = 1;
+let dos = 2;
+
+function asd() {
+     uno = 10;
+     dos = 20;
+}
+
+asd()
+
+console.log({uno, dos});

@@ -44,3 +44,14 @@ const meses = ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo'];
     return producto.nombre === 'Celular'
 });
     console.log(resultado);
+    
+    const arrayUno = [1, 8, 8, 11, 31];
+
+    const arraydos = [15, 89, 25, 96, 15, 0];
+
+  const nuevoOrden = arrayUno.concat(arraydos);
+
+  console.log(nuevoOrden);
+
+
+    
